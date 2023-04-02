@@ -1,7 +1,6 @@
 <h1> Hello! I'm Lucas 👋</h1>
 <h2> Welcome to my github!</h2>
 
-I'm here to learn more and share my data science projects.
 ***
 
 💻: Currently working as a Data Analyst - CENIBRA (MG - Brazil);<br>
