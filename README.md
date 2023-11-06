@@ -7,7 +7,6 @@
 🎓: Data Science and Analytics MBA - University of São Paulo;<br>
 🌱: I'm currently learning (and always will be) more Machine Learning;<br>
 👯: I'm open to collaborations!<br>
-😄 Pronouns: He/Him.<br>
 ***
 <h1>Contact me</h1>
 <a href="https://www.linkedin.com/in/lucas-msena/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
