@@ -2,7 +2,6 @@
 <h2> Welcome to my github!</h2>
 
 ***
-🔭: Mentor in Machine Learning - [DataEngineer Help](https://www.linkedin.com/company/dataengineerhelp/) community;<br>
 💻: Data Analyst - [CENIBRA](https://www.linkedin.com/company/cenibra-celulose/mycompany/);<br>
 🎓: Data Science and Analytics MBA - University of São Paulo;<br>
 🌱: I'm currently learning (and always will be) more Machine Learning;<br>
