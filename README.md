@@ -10,13 +10,9 @@
 <h1>Contact me</h1>
 <a href="https://www.linkedin.com/in/lucas-msena/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-## Under construction...
-
 <br>
 
-
-# **Welcome to my Data Science Portfolio**
+# **Welcome to my Data Science Portfolio (under construction...)**
 ![Data-has-a-better-idea](https://github.com/lucas-mdsena/portfolio/assets/93884007/ac8e9249-bf94-40bc-8d89-ae09f97d671c)
 ***
 <br>
