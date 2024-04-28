@@ -18,13 +18,14 @@
 ***
 <br>
 
-## **Exploratory data analysis**
-### [Project 01 - Brazilian Gas Price Analysis](https://github.com/lucas-mdsena/gas_price_analysis)
+## **Machine learning**
+### [Project 01 - Customer's Churn Classification | Alura Data Science Challenge](https://github.com/lucas-mdsena/churn_classification)
+### [Project 02 - ETL + ML and Deploy](https://github.com/lucas-mdsena/etl_ml)
 
 <br>
 
-## **Machine learning**
-### [Project 01 - Customer's Churn Classification | Alura Data Science Challenge](https://github.com/lucas-mdsena/churn_classification)
+## **Exploratory data analysis**
+### [Project 01 - Brazilian Gas Price Analysis](https://github.com/lucas-mdsena/gas_price_analysis)
 
 <br>
 
