@@ -3,7 +3,7 @@
 
 ***
 💻: Data Analyst - [CENIBRA](https://www.linkedin.com/company/cenibra-celulose/mycompany/);<br>
-⚡: Data Science Mentor - [DataEngineer Help](https://dataengineer.help/);<br>
+⚡: Data Science Instructor - [DataEngineer Help](https://dataengineer.help/);<br>
 🎓: Data Science and Analytics - University of São Paulo;<br>
 🌱: I'm currently learning (and always will be) more Machine Learning;<br>
 👯: I'm open to collaborations!<br>
