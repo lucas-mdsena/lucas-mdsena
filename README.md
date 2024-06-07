@@ -33,6 +33,7 @@
 I'll be a instructor for a Python course, and the contents will be avaiable a those repositories.
 ### [Data manipulation with Pandas](https://github.com/lucas-mdsena/python_udemy?tab=readme-ov-file)
 ### [Data visualization with Matplotlib](https://github.com/lucas-mdsena/python_udemy_module_3)
+### [Exploratory Data Analysis](https://github.com/lucas-mdsena/python-udemy-module_4)
 
 <br>
 
