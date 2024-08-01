@@ -2,7 +2,7 @@
 <h2> Welcome to my github!</h2>
 
 ***
-💻: Data Analyst - [CENIBRA](https://www.linkedin.com/company/cenibra-celulose/mycompany/);<br>
+💻: Data Scientist - [AeC](https://br.linkedin.com/company/aec);<br>
 ⚡: Data Science Instructor - [DataEngineer Help](https://dataengineer.help/);<br>
 🎓: Data Science and Analytics - University of São Paulo;<br>
 🌱: I'm currently learning (and always will be) more Machine Learning;<br>
