@@ -18,6 +18,11 @@
 ***
 <br>
 
+## **AISafeguards - Python package for RAG metrics**
+### [AISafeguards](https://github.com/lucas-mdsena/ai_safeguards)
+
+<br>
+
 ## **Machine learning**
 ### [Project 01 - Customer's Churn Classification | Alura Data Science Challenge](https://github.com/lucas-mdsena/churn_classification)
 ### [Project 02 - ETL + ML and Deploy (ongoing)](https://github.com/lucas-mdsena/etl_ml)
