@@ -2,11 +2,9 @@
 <h2> Welcome to my github!</h2>
 
 ***
-💻: Data Scientist - [AeC](https://br.linkedin.com/company/aec);<br>
-⚡: Data Science Instructor - [DataEngineer Help](https://dataengineer.help/);<br>
+💻: Data Scientist & AI Engineer - [AeC](https://br.linkedin.com/company/aec);<br>
 🎓: Data Science and Analytics - University of São Paulo;<br>
-🌱: I'm currently learning (and always will be) more Machine Learning;<br>
-👯: I'm open to collaborations!<br>
+🌱: Currently working on a Python package - [AISafeguards](https://github.com/lucas-mdsena/ai_safeguards/tree/develop);<br>
 ***
 <h1>Contact me</h1>
 <a href="https://www.linkedin.com/in/lucas-msena/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@lucas.msena" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
