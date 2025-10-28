@@ -21,6 +21,11 @@
 
 <br>
 
+## **Generative AI and AI Agents**
+### [Project 01 - RAG assistant](https://github.com/lucas-mdsena/rag)
+
+<br>
+
 ## **Machine learning**
 ### [Project 01 - Customer's Churn Classification | Alura Data Science Challenge](https://github.com/lucas-mdsena/churn_classification)
 ### [Project 02 - ETL + ML](https://github.com/lucas-mdsena/etl_ml)
