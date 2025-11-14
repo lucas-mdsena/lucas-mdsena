@@ -21,8 +21,9 @@
 
 <br>
 
-## **Generative AI and AI Agents**
+## **Transformers, Language models, Generative AI and AI Agents**
 ### [Project 01 - RAG assistant](https://github.com/lucas-mdsena/rag)
+### [Project 02 - Fine-tuning models](https://github.com/lucas-mdsena/fine-tuning)
 
 <br>
 
